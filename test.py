@@ -1,3 +1,3 @@
 print('Testing! Testing!')
-print('2nd line')
+print('magic')
 print('Yeeeeeee, 3rd line')
